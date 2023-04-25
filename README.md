@@ -1,4 +1,4 @@
-# printf-test
+# printf
 
 This team project is part of the ALX Software engineering curriculum. ____printf___ replicates the C standard library printf() function.
 
